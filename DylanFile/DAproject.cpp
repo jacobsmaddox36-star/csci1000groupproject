@@ -6,7 +6,7 @@ int i = 0;
 
 while(i<6){
 cout << i << endl;
-i++;
+i++
 }
 return 0;
 }

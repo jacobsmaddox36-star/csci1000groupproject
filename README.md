@@ -5,3 +5,4 @@ This is our group github project for CSCI 1000
 
 ### [Dylan](./DylanFile/README.md)
 ### [Daniel](./Daniel/README.md)
+### [Maddox](./maddox/maddoxfile)
